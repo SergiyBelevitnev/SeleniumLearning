@@ -1,0 +1,1 @@
+{"uuid":"cc60368d-a4fb-442e-b074-b2f96f122a56","name":"TestAli","children":["1cebc8cd-9db1-4dbd-a915-10fc340efa13"],"befores":[{"name":"beforeClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1543220863907,"stop":1543220864159}],"afters":[],"links":[],"start":1543220855399,"stop":1543220943178}

@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="ApacheTest">
+    <test name="ApacheTest">
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="ApacheTest">
+            </class>
+        </classes>
+    </test>
+</suite>

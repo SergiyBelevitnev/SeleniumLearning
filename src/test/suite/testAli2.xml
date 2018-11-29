@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestAli2">
+<test name="TestAli2">
+
+    <parameter name="browser" value="chrome"/>
+
+    <classes>
+        <class name="TestAli2">
+
+
+
+        </class>
+
+    </classes>
+</test>
+</suite>

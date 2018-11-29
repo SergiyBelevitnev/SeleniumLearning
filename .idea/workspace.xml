@@ -1,0 +1,1474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf226347-b52c-423d-92c3-3ccdd7c81e63" name="Default Changelist" comment="" />
+    <list id="7e28ee32-43d1-40bf-bdd6-dc93c8b27853" name="23/11/18" comment="dismiss">
+      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/main/resources/log4J.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Selenium/src/test/java/Reporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/base/Reporter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestAli2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestAli3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestWeb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/suite/testAli.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/suite/testAli2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/suite/testAli3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/suite/testFireFox.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-Integration/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-Integration/src/main/java/org/labtracker/integration/JsonBodies/ProgramJson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-Integration/src/main/java/org/labtracker/integration/JsonBodies/TrackingPlanJson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-Integration/src/main/java/org/labtracker/integration/JsonBodies/TriggerJson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-Integration/src/main/java/org/labtracker/integration/JsonBodies/UserJson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-Integration/src/main/java/org/labtracker/integration/utils/Extras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-Integration/src/main/java/org/labtracker/integration/utils/Parameters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-Integration/src/test/java/org/LabTracker/Integration/tests/ProgramTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-Integration/src/test/java/org/LabTracker/Integration/tests/TrackingPlanTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-Integration/src/test/java/org/LabTracker/Integration/tests/TriggersTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-Integration/src/test/resources/suites/ProgramsSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-Integration/src/test/resources/suites/TrackingPlanSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-Integration/src/test/resources/suites/TriggersSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/Enums/TriggerType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/data/FTPServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/data/Group.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/data/LoggingProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/data/LoggingRule.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/data/ProfileKey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/data/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/data/ProgramState.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/data/ReportItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/data/TrackingPlan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/data/Trigger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/data/TriggerAction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/data/TriggerFacts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/data/User2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/data/UserAA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/data/UserProfilEdit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/pageobject/AccountAdministrationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/pageobject/AdminUserPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/pageobject/AdvancedSettinsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/pageobject/CommonControls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/pageobject/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/pageobject/PasswordResetPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/pageobject/ProfilePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/pageobject/ProgramsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/pageobject/SetUpSubscriptionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/pageobject/SignUpPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/pageobject/SiteHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/pageobject/SystemMonitoringPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/pageobject/TrackingPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/pageobject/TriggersPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/preset/PageObjectSupplier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/preset/URL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/testmethods/AccountAdministrationMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/testmethods/AdminUserMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/testmethods/AdvancedSettingsMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/testmethods/CommonMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/testmethods/LoginMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/testmethods/PasswordResetMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/testmethods/ProfileMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/testmethods/ProgramsMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/testmethods/SystemMonitoringMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/testmethods/TrackingMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/main/java/labtracker/testmethods/TriggersMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/AccountAdministrationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/AccountCreation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/AdminUserTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/AdvancedSettingsTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/ComponentsVerification.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndMultipleTriggersDatabaseQueryTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndMultipleTriggersFileOrFolderTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndMultipleTriggersKeystrokeInputTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndMultipleTriggersLabStartStop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndMultipleTriggersProgramOrServiceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndMultipleTriggersScriptTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndMultipleTriggersTimeBasedTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndMultipleTriggersUserSessionTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndMultipleTriggersWindowsRegistryTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndSmokeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndTriggerActionsTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndTriggersDatabaseQueryTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndTriggersFileOrFolderTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndTriggersKeystrokeInputTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndTriggersLabStartStop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndTriggersNetworkActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndTriggersProgramOrServiceTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndTriggersScriptTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndTriggersTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndTriggersTimeBasedTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndTriggersTriggerActivityTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndTriggersTriggerWindowsRegistry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/End2EndTriggersUserSession.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/LoginTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/ProfileTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/ProgramsTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/TrackingPlanTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/java/labtracker/testcases/TriggersTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/properties/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/AccountAdministration-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/AdminUser-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/AdvancedSettings-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/Components-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndAllTriggers-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndMultipleDatabaseQuery-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndMultipleFileOrFolder-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndMultipleLabStartStop-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndMultipleProgramOrService-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndMultipleTriggersKeystrokeInput-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndMultipleTriggersScript-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndMultipleTriggersTimeBased-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndMultipleTriggersUserSession-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndMultipleWindowsRegistry-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndSmoke-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndSmoke-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndTriggerActions-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndTriggers-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndTriggersDatabaseQuery-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndTriggersFileOrFolder-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndTriggersKeystrokeInput-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndTriggersLabStartStop-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndTriggersNetworkActivity-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndTriggersProgramOrService-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndTriggersScript-Win-Firefox .xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndTriggersTimeBased-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndTriggersTriggerActivity-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndTriggersUserSession-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2EndTriggersWindowsRegistry-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/End2end-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/Login-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/Login-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/Profile-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/Profile-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/Programs-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/Programs-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/TrackingPlan-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/TrackingPlan-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/Triggers-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/Triggers-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/Triggers2-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/Triggers2-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/src/test/resources/suites/User-Account-Creation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/LabTracker-domain/testng_for_test.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/java/org/Sikuli/automation/BaseScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/java/org/Sikuli/automation/LabTrackerScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/java/org/Sikuli/automation/MainScreen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/java/org/Sikuli/utils/DataProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/ExpectedTimeMessage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/LTicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/LabStartsIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/LabStartsIconLock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/LabStopsIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/LabtrackerTrayIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/NotepadIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/NotepadTitle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/Rocket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/Second_hidden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/Third_hidden.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/Third_visible.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/TimeLimitNotification.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/TimeLimitNotification2DEL.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/data.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/failedTriggerIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/firedFiveTriggersIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/firedFourTriggersIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/firedSixTriggersIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/firedThreeTriggersIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/firedTriggerIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/firedTwoTriggersIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/newButtonLabel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/pendingTriggerIcon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/rocket2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/startLabPractice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/triggers_label.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/two_fired_third_pending.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/userPopupAlert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/userPopupMessage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/main/resources/userPopupYesNo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/Sikuli-framework/src/test/java/org/Sikuli/core/SikuliUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/SoapUI/REST-Project-2-soapui-project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/SoapUI/VKAxis.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/BrowserStackLocal64CT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/BrowserStackLocal64Images" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/BrowserStackLocal64LP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/BrowserStackLocal64PC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/Google ReadyTechTest account.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/ReadyTechTest02-axis-account.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/ReadyTechTest02alex.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/BrowserStackLocal64CT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/BrowserStackLocal64Images" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/BrowserStackLocal64LP" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/BrowserStackLocal64PC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/Google ReadyTechTest account.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/data/CourseTemplate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/data/CourseTemplateDBInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/data/EndToEndDBInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/data/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/data/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/data/EventDBInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/data/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/data/ImageDBInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/data/LabPlan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/data/LabPlanDBInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/data/ProviderConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/data/ProviderConnectionDBInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/data/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/data/User2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/data/Visibility2DBInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/AccountActivationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/AccountAdministrationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/AccountsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/AdministratorsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/ApplicationSettingsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/CommonControls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/CourseTemplatesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/EntitiesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/EventsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/ImagesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/InstanceTypesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/LabPlansPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/PasswordResetPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/ProviderConnectionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/RecurlySettingsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/RegionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/RolesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/SignUpPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/SiteHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/pageobject/UsersPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/preset/PageObjectSupplier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/preset/URL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/AccountAdministrationMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/AccountsMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/AdministratorsMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/ApplicationSettingsMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/CommonMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/CourseTemplateMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/EntitiesMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/EventMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/ImagesMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/InstanceTypesMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/LabPlanMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/LoginMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/PasswordResetMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/ProviderConnectionMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/RecurlySettingsMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/RegionMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/RolesMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/main/java/axis/testmethods/UsersMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/AccountCreation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/AccountTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/AdminPortal2Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/AdminPortalTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/ApplicationSettingsTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/CourseTemplateTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/EndToEndPilotTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/EndToEndTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/EntitiesTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/Event2Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/Event3Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/EventTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/EventsAPCancelledTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/EventsAPPendingTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/EventsAPTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/ImageVerifcationToolsTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/ImagesTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/LabPlanTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/LoginTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/OrphanTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/ProviderConnectionTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/RolesTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/SmokeTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/UsersTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/java/axis/testcases/VisibilityTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/properties/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Account-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Account-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/AdminPortal-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/AdminPortal2-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/AmazonVerifications-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/ApplicationSettings-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/CourseTemplate-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/CourseTemplate-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/CourseTemplate-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/CourseTemplate-tests-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/EndToEnd-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/EndToEnd-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/EndToEnd-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/EndToEnd-tests_suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Entities-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Entities-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Entities-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Entities-tests-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event-tests-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event2-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event2-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event2-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event2-tests-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event3-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event3-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event_AP-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event_AP-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event_AP_Cancelled-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event_AP_Cancelled-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event_AP_Pending-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Event_AP_Pending-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/ImageVerificationTools-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/ImageVerificationTools-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Images-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Images-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Images-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Images-tests-suites.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/LabPlan-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/LabPlan-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/LabPlan-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/LabPlan-tests-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Login-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Login-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Login-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Login-tests-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Orphans-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/PC-Mac-Safari.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/PC-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/PC-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/PC-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/PC-Win7-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/PC-Win8-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/PC-tests-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/PostBuild-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Roles-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Roles-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Roles-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Roles-tests-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Roles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Smoke-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/User-Account-Creation-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/User-Account-Creation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Users-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Users-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Users-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Users-tests-suites.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Visibility-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Visibility-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Visibility-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Visibility-tests-suites.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Visibility2-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Visibility2-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/Visibility2-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/local-tests-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/domain/src/test/resources/suites/tests-suite1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/CourseTemplate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/CourseTemplateDBInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/EndToEndDBInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/EventDBInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/Image.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/ImageDBInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/LabPlan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/LabPlanDBInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/ProviderConnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/ProviderConnectionDBInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/RandomEmail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/RandomName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/User2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/data/Visibility2DBInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/AccountActivationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/AccountAdministrationPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/AccountsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/AdministratorsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/ApplicationMetricsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/ApplicationSettingsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/CommonControls.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/CourseTemplatesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/EntitiesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/EventsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/ImagesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/InstanceTypesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/LabPlansPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/PasswordResetPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/ProviderConnectionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/RecurlySettingsPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/RegionPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/RolesPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/SignUpPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/SiteHomePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/pageobject/UsersPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/preset/PageObjectSupplier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/preset/URL.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/AccountAdministrationMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/AccountsMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/AdministratorsMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/ApplicationMetricsMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/ApplicationSettingsMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/CommonMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/CourseTemplateMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/EntitiesMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/EventMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/ImagesMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/InstanceTypesMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/LabPlanMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/LoginMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/PasswordResetMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/ProviderConnectionMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/RecurlySettingsMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/RegionMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/RolesMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/main/java/axis/testmethods/UsersMethods.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/AccountCreation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/AccountTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/AdminPortal2Tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/AdminPortalTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/ApplicationSettingsTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/CourseTemplateTestsWithoutDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/EndToEndPilotTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/EndToEndTestsWithoutDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/EntitiesTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/Event2TestsWithoutDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/Event3TestsWithoutDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/EventTestsWithoutDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/EventsAPCancelledTestsWithoutDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/EventsAPPendingTestsWithoutDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/EventsAPTestsWithoutDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/ImageNegativeScenariosBoundaryConditionsTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/ImageVerifcationToolsTestsWithoutDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/ImagesTestsWithoutDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/LabManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/LabPlanNegativeScenariosBoundaryConditionsTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/LabPlanTestsWithoutDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/LoginTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/OrphanTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/ProviderConnectionNegativeScenariosBoundaryConditionsTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/ProviderConnectionTestsWithoutDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/RolesTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/SmokeTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/SmokeTestsFast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/UsedByTestsWithoutDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/UsersTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/java/axis/testcases/VisibilityTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/properties/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Account-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Account-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/AdminPortal-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/AdminPortal2-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/AmazonVerifications-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/ApplicationSettings-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/CourseTemplate-Win-Chrome_WO_DB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/CourseTemplate-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/CourseTemplate-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/EndToEnd-Win-Chrome_WO_DB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/EndToEnd-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Entities-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Event-Win-Chrome_Fast_Regression.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Event-Win-Chrome_WO_DB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Event-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Event2-Win-Chrome_WO_DB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Event2-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Event3-Win-Chrome_WO_DB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Event3-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Event_AP-Win-Chrome_WO_DB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Event_AP-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Event_AP_Cancelled-Win-Chrome_WO_DB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Event_AP_Cancelled-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Event_AP_Pending-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Event_AP_Pending-Win-Chrome_WO_DB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Image-Negative-Scenarios-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/ImageVerificationTools-Win-Chrome_WO_DB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/ImageVerificationTools-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Images-Win-Chrome_WO_DB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Images-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/LabManager-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/LabPlan-Negative-Scenarios-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/LabPlan-Win-Chrome_WO_DB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/LabPlan-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Login-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Login-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Login-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Login-tests-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Orphans-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/PC-Mac-Safari.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/PC-Negative-Scenarios-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/PC-Win-Chrome-Fast_Regression.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/PC-Win-Chrome-WO_DB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/PC-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/PostBuild-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Roles-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Roles-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Roles-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Roles-tests-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Roles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Smoke-Fast-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Smoke-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Used_By-Win-Chrome-WO_DB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/User-Account-Creation-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/User-Account-Creation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Users-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Users-tests-suites.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Users2-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Visibility-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Visibility-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Visibility-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Visibility-tests-suites.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Visibility2-Win-Chrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Visibility2-Win-Firefox.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Visibility2-Win-IE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/Visibility2-WinChrome.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/local-tests-suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/domain/src/test/resources/suites/tests-suite1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/java/axis/core/BaseListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/java/axis/core/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/java/axis/core/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/java/axis/utils/AlphanumComparator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/java/axis/utils/Browser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/java/axis/utils/ConnKeys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/java/axis/utils/DataBaseHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/java/axis/utils/LTConnKeys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/java/axis/utils/LTDataBaseHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/java/axis/utils/PropKeys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/java/axis/utils/PropertiesUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/java/axis/utils/RandomNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/java/axis/utils/RandomString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/java/axis/utils/Registry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/java/axis/utils/WebDriverUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/resources/drivers/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/resources/drivers/IEDriverServer.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/resources/drivers/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/resources/drivers/chromedriver_linux32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/resources/drivers/chromedriver_linux64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/resources/drivers/chromedriver_mac32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/resources/drivers/chromedriver_win32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/framework/src/main/resources/drivers/geckodriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/main/java/org/integration/utils/Extras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/main/java/org/integration/utils/JsonBodyCreations/EntityJson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/main/java/org/integration/utils/JsonBodyCreations/UserJson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/main/java/org/integration/utils/Parameters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/java/org/integration/tests/AccountAdminTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/java/org/integration/tests/AdditionalAPITests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/java/org/integration/tests/CourseTemplateTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/java/org/integration/tests/EntitiesTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/java/org/integration/tests/EventTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/java/org/integration/tests/ImagesTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/java/org/integration/tests/LabPlanTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/java/org/integration/tests/PCTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/java/org/integration/tests/RolesTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/java/org/integration/tests/UsersTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/java/org/integration/tests/endpoints/UsersEndpoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/java/org/integration/tests/user/newUser/AccountEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/java/org/integration/tests/user/newUser/CreatedBy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/java/org/integration/tests/user/newUser/CreatedUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/resources/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/resources/suite/AccountAdmin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/resources/suite/Additional.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/resources/suite/CourseTemplate.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/resources/suite/Entities.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/resources/suite/Events.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/resources/suite/Images.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/resources/suite/LabPlan.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/resources/suite/PC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/resources/suite/Roles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/resources/suite/Suite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/resources/suite/Suite2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/integration/src/test/resources/suite/Users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Axis-UI/reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SoapUI/REST-Project-2-soapui-project.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1800122052">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="6" />
+          <entry key="java" value="32" />
+          <entry key="png" value="6" />
+          <entry key="testAli2" value="1" />
+          <entry key="xml" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="6" />
+          <entry key="Image" value="6" />
+          <entry key="JAVA" value="32" />
+          <entry key="XML" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="48" />
+          <entry key="java" value="2710" />
+          <entry key="testAli2" value="7" />
+          <entry key="txt" value="16" />
+          <entry key="xml" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2710" />
+          <entry key="PLAIN_TEXT" value="64" />
+          <entry key="XML" value="47" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/BaseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="79" column="49" lean-forward="true" selection-start-line="79" selection-start-column="49" selection-end-line="79" selection-end-column="49" />
+              <folding>
+                <element signature="e#2182#2183#0" expanded="true" />
+                <element signature="e#2217#2218#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestAli3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/utils/ExcelUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DaraDrivenTestExcel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/DataDrivenTestNG.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1543501967686" expanded="true" signature="384:685" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/SingletonBrowserClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#832#833#0" expanded="true" />
+                <element signature="e#861#862#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SingletonBrowserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="41" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="8" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/suite/DDTesting.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/suite/DataDriverTestNG.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/base/ExtentManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/suite/testAli2" />
+        <option value="$PROJECT_DIR$/src/test/suite/testAli3.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/TestAli3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/ExtentManager.java" />
+        <option value="$PROJECT_DIR$/src/test/suite/testAli2.xml" />
+        <option value="$PROJECT_DIR$/src/test/suite/testAli.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/TestAli2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Test2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestAli4.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestAli.java" />
+        <option value="$PROJECT_DIR$/src/test/suite/testOptovik.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/TestWeb.java" />
+        <option value="$PROJECT_DIR$/src/test/suite/testApache.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/base/ApacheTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/Strings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/Enums.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/ExcelUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/Constant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/ExcelUtility.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/UsingExcel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/utils/ExcelUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ApacheTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DaraDriveTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/UsingExcel.java" />
+        <option value="$PROJECT_DIR$/src/test/suite/DDTesting.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/DaraDrivenTestExcel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/SingletonBrowserClass.java" />
+        <option value="$PROJECT_DIR$/src/main/java/base/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SingletonBrowserTest.java" />
+        <option value="$PROJECT_DIR$/src/test/suite/DataDriverTestNG.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/DataDrivenTestNG.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="suite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testTest" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="result" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543506674727" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/belevitnev/Desktop/testTest/src/test/suite/DataDriverTestNG.xml">
+    <configuration name="C:/Users/belevitnev/Desktop/testTest/src/test/suite/DDTesting.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/suite/DDTesting.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/belevitnev/Desktop/testTest/src/test/suite/DataDriverTestNG.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/suite/DataDriverTestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataDrivenTestNG" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DataDrivenTestNG" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonBrowserTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SingletonBrowserTest" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonBrowserTest.singletonBrowserTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SingletonBrowserTest" />
+      <option name="METHOD_NAME" value="singletonBrowserTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/belevitnev/Desktop/testTest/src/test/suite/DDTesting.xml" />
+      <item itemvalue="TestNG.SingletonBrowserTest.singletonBrowserTest" />
+      <item itemvalue="TestNG.SingletonBrowserTest" />
+      <item itemvalue="TestNG.DataDrivenTestNG" />
+      <item itemvalue="TestNG.C:/Users/belevitnev/Desktop/testTest/src/test/suite/DataDriverTestNG.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/belevitnev/Desktop/testTest/src/test/suite/DataDriverTestNG.xml" />
+        <item itemvalue="TestNG.DataDrivenTestNG" />
+        <item itemvalue="TestNG.SingletonBrowserTest" />
+        <item itemvalue="TestNG.SingletonBrowserTest.singletonBrowserTest" />
+        <item itemvalue="TestNG.C:/Users/belevitnev/Desktop/testTest/src/test/suite/DDTesting.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf226347-b52c-423d-92c3-3ccdd7c81e63" name="Default Changelist" comment="" />
+      <changelist id="7e28ee32-43d1-40bf-bdd6-dc93c8b27853" name="23/11/18" comment="dismiss" />
+      <created>1542958286460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542958286460</updated>
+    </task>
+    <task id="LOCAL-00001" summary="23/11/18">
+      <created>1542985201432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542985201432</updated>
+    </task>
+    <task id="LOCAL-00002" summary="23/11/18">
+      <created>1543250537249</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543250537249</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SingletonBrowserTest_singletonBrowserTest - 2018.11.29 at 15h 20m 39s.xml">
+      <configuration name="SingletonBrowserTest.singletonBrowserTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SingletonBrowserTest - 2018.11.29 at 15h 23m 31s.xml">
+      <configuration name="SingletonBrowserTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SingletonBrowserTest - 2018.11.29 at 15h 24m 41s.xml">
+      <configuration name="SingletonBrowserTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DataDrivenTestNG - 2018.11.29 at 16h 00m 50s.xml">
+      <configuration name="DataDrivenTestNG" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DataDrivenTestNG - 2018.11.29 at 16h 03m 04s.xml">
+      <configuration name="DataDrivenTestNG" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="DataDrivenTestNG - 2018.11.29 at 16h 03m 40s.xml">
+      <configuration name="DataDrivenTestNG" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_belevitnev_Desktop_testTest_src_test_suite_DataDriverTestNG_xml - 2018.11.29 at 16h 07m 52s.xml">
+      <configuration name="C:/Users/belevitnev/Desktop/testTest/src/test/suite/DataDriverTestNG.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_belevitnev_Desktop_testTest_src_test_suite_DataDriverTestNG_xml - 2018.11.29 at 16h 28m 04s.xml">
+      <configuration name="C:/Users/belevitnev/Desktop/testTest/src/test/suite/DataDriverTestNG.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_belevitnev_Desktop_testTest_src_test_suite_DataDriverTestNG_xml - 2018.11.29 at 16h 30m 56s.xml">
+      <configuration name="C:/Users/belevitnev/Desktop/testTest/src/test/suite/DataDriverTestNG.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_belevitnev_Desktop_testTest_src_test_suite_DataDriverTestNG_xml - 2018.11.29 at 17h 21m 00s.xml">
+      <configuration name="C:/Users/belevitnev/Desktop/testTest/src/test/suite/DataDriverTestNG.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="DB Browser" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="DB Execution Console" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection>
+                  <UserGroup>
+                    <option name="users">
+                      <list>
+                        <option value="me" />
+                      </list>
+                    </option>
+                  </UserGroup>
+                </collection>
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="23/11/18" />
+    <option name="LAST_COMMIT_MESSAGE" value="23/11/18" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/ExcelUtility.java</url>
+          <line>62</line>
+          <properties class="utilities.ExcelUtility" method="findCells">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/ExcelUtility.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/ExcelUtility.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/utils/ExcelUtility.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/target/result/TestAli/2018 11 22/run15_54_45.png" />
+    <entry file="file://$PROJECT_DIR$/target/result/TestAli/2018 11 22/run15_12_38.png" />
+    <entry file="file://$PROJECT_DIR$/target/result/TestAli/2018 11 22/run15_09_17.png" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="443" selection-start-line="443" selection-end-line="443" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/result/TestAli2/2018 11 23/findElementAfterWait11_13_41.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/suite/testAli2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/suite/testAli3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/Reporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/suite/testFireFox.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/result/TestWeb/2018 11 26/chooseCneckbox14_48_46.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/result/TestWeb/2018 11 26/chooseCneckbox14_49_33.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/Listeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="89" column="1" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/suite/testApache.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/Enums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/suite/testOptovik.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/4.0.0/poi-ooxml-4.0.0.jar!/org/apache/poi/xssf/usermodel/XSSFCell.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestWeb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestAli2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestAli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/suite/testAli.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/ExcelUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="108" selection-start-line="108" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/UsingExcel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <marker date="1543490173354" expanded="true" signature="2:1928" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ApacheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1076">
+          <caret line="65" column="40" lean-forward="true" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestAli3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/ExtentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/utils/ExcelUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/suite/DDTesting.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/suite/DataDriverTestNG.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DaraDrivenTestExcel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SingletonBrowserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/SingletonBrowserClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#861#862#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/base/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="79" column="49" lean-forward="true" selection-start-line="79" selection-start-column="49" selection-end-line="79" selection-end-column="49" />
+          <folding>
+            <element signature="e#2182#2183#0" expanded="true" />
+            <element signature="e#2217#2218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DataDrivenTestNG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1543501967686" expanded="true" signature="384:685" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
